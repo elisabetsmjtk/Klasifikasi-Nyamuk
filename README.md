@@ -37,9 +37,11 @@ Menggunakan EfficientNetB2
 ---
 
 ## Struktur Repository
+```
 klasifikasi_ensemble_learning.ipynb
 klasifikasi_nyamuk
-README.md 
+README.md
+```
 
 ## Cara Menjalankan Proyek
 
