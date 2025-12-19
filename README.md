@@ -41,6 +41,7 @@ Menggunakan EfficientNetB2
 |-- klasifikasi_ensemble_learning.ipynb
 `-- klasifikasi_nyamuk.ipynb
 
+
 ## Cara Menjalankan Proyek
 
 1. Clone repository ini:
