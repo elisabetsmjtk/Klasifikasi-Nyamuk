@@ -37,18 +37,16 @@ Menggunakan EfficientNetB2
 ---
 
 ## Struktur Repository
-```
-.
-|-- klasifikasi_ensemble_learning.ipynb
-`-- klasifikasi_nyamuk.ipynb
-```
+klasifikasi_ensemble_learning.ipynb
+klasifikasi_nyamuk
+README.md 
 
 ## Cara Menjalankan Proyek
 
 1. Clone repository ini:
 git clone https://github.com/elisabetsmjtk/Klasifikasi-Nyamuk.git
 2. Buka notebook menggunakan Jupyter Notebook/Google Colab
-3. Pastikan struktur dataset sudah sesuai (Menggunakan gdrive)
+3. Pastikan struktur dataset sudah sesuai (Menggunakan Gdrive)
 4. Jalankan notebook:
 ensemble_model.ipynb untuk ensemble learning
 efficientnet_b2.ipynb untuk single model
